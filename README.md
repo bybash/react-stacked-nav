@@ -1,4 +1,6 @@
 # react-stacked-nav
+![react-stacked-nav](https://media.giphy.com/media/mEgcKAvFcbvDvZFcHe/source.gif)
+
 A stacked navigation or drawer for React JS Apps
 Notice that it is not a finished library but you can use it for your purposes.
 You can download source code and run commands `npm i && npm start` to run example app
@@ -18,3 +20,4 @@ TO-DO:
 - Write a how to use documentation
 - Navigation direction support (right now only from right)
 - Injectable back, header and footer components
+
